@@ -12,9 +12,9 @@ Trong phần này, mình sử dụng các kiến trúc mô hình khác nhau cho 
 https://drive.google.com/drive/folders/1RkumZHxrSDHxdkzl0jzOvc-RdLeoQZJW?usp=sharing
 ## Evaluation
 - Biểu đồ Loss với 100 epochs
-<img src='img/loss 100.PNG'>
+<img src='img/loss 100.png'>
 - Biểu đồ Loss cho tất cả các model
-<img src='img/loss all.PNG'>
+<img src='img/loss all.png'>
 - Bảng đánh giá các model
 <img src='img/time_train, time_test, blue_score.PNG'>
 - Demo
